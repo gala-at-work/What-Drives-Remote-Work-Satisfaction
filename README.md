@@ -5,7 +5,6 @@ The project aims to identify the workplace and lifestyle factors most associated
 An exploratory data analysis of how remote, hybrid, and onsite work arrangements relate to employee mental health, stress, sleep, productivity, and job satisfaction. Built on a dataset of ~5,000 employees spanning multiple industries, job roles, and global regions.
 
 Identify the workplace and lifestyle factors most associated with employee stress and remote-work satisfaction, and translate the findings into actionable
-
 recommendations for HR and people-operations teams.
 
 ### This projects helps answer business questions like:
